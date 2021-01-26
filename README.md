@@ -1,2 +1,2 @@
-# hello-world
-This is an ecommerce project selling makeup products
+# MyWebSite
+This is my personal website
